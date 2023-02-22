@@ -1,0 +1,66 @@
+/* || general styles */
+
+html {
+  font-family: 'Oswald', helvetica, arial, sans-serif;
+  
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+body{
+  background:url("/proyecto/img2.png");
+  background-repeat: repeat-y;
+  background-position: 400px 10px;
+  
+  /* Recuerda que los botones html traen un borde por defecto que se suele ver bastante mal, 
+  puedes quitarlo en la siguiente linea */
+  border: none;
+}
+h1, h2 {
+ 
+  font-family: 'Oswald', cursive;
+  color: #3f1f1f;
+}
+
+/* header styles */
+
+h1 {
+  background-color:rgba(199, 167, 167, 0.74);
+  font-size: 4rem;
+  text-align: center;
+}
+
+header p {
+  
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* section styles */
+
+section article {
+  
+
+  width: 33%;
+  float: left;
+}
+
+section p {
+  margin: 5px 0;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  letter-spacing: -5px;
+  margin-bottom: 10px;
+}
+section {
+  background:url("/proyecto/img.png");
+     }

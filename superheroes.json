@@ -1,0 +1,40 @@
+{
+  "squadName" : "Familia",
+  "homeTown" : "Suba",
+  "formed" : "Cra 145 #145-46 ",
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Madre",
+      "edad" : 50,
+      "secretIdentity" : "Mother",
+      "powers" : [
+        "Nombre Nancy Garzon",
+        "Cel 3214581035",
+        "Correo Nancy@gmail.com"
+      ]
+    },
+    {
+      "name" : "Padre",
+      "edad" : 54,
+      "secretIdentity" : "Father",
+      "powers" : [
+        "Nombre Juan Malagon",
+        "Cel 3203456486",
+        "Correo Juan@gmail.com"
+      ]
+    },
+    {
+      "name" : "Hermano",
+      "age" : 24,
+      "secretIdentity" : "Brother",
+      "powers" : [
+        "Nombre Jafet Vargas",
+        "Cel 317859472",
+        "Correo Kike@gmail.com"
+      ]
+    }
+  ]
+}
+
